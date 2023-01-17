@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1673987894494,
+  "timestamp": 1673989001710,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -102,7 +102,7 @@
         "/9958.4787b4a2eedc162c.js",
         "/common.1e1c2f2249acde7b.js",
         "/index.html",
-        "/main.a508be724b4b39a1.js",
+        "/main.0482dd8b54ab725b.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.aae6b5d519b4cdc7.js",
         "/polyfills-dom.3a5e3168052f1fc5.js",
@@ -357,8 +357,8 @@
     "/avatar.a873f6944a1bc18a.png": "e19db4fead6043b9ad750ac8b561016c6f8557f3",
     "/common.1e1c2f2249acde7b.js": "87676e8d6b124dc03a6fec58472ee02ddd4e534a",
     "/fondoChat.22ff4455ec751229.jpg": "9b87fffb8f0ac13c3d83c883ca1363d7e31b90ab",
-    "/index.html": "a22c435538e6b888045f0dec19ce35e4f0eefb58",
-    "/main.a508be724b4b39a1.js": "776f7d30f9fd76a777133278823bb4b5559df247",
+    "/index.html": "ea7577ed66b48d5936a41e3677fb22d2a1274707",
+    "/main.0482dd8b54ab725b.js": "6eecd7ce2b6907137a09163e05d815b926ca590a",
     "/manifest.webmanifest": "fa85255195e169cb71fd3cfbd0862a717cc718d6",
     "/no-imagen.29a1ada4a1eaa587.jpg": "fd36be3ca9d46e72470f0080f4afecd588693288",
     "/polyfills-core-js.aae6b5d519b4cdc7.js": "e6fb2e72255d987bc5dc500fb064261c793716a4",
