@@ -7,7 +7,7 @@ const UsuarioSchema = Schema({
     },
     avatar: {
         type: String,
-        default: 'assets/img/avatar.png'
+        default: 'assets/img/avatar-2.svg'
     },
     created: {
         type: Date
